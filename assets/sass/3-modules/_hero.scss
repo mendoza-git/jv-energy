@@ -1,0 +1,55 @@
+.hero {
+    .hero-splash {
+        background-image: url('https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2273&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+        background-size: cover;
+        display: flex; 
+        padding-top: 50px; 
+        height: 95vh;
+
+        @media only screen and (max-width: $mobile) {
+            height: 100vh;
+        }
+
+        &_content {
+            margin-top: 25%;
+            margin-left: 50px;
+            
+
+            @media only screen and (max-width: $mobile) {
+                margin-left: 0;
+            }
+
+            .widget-info__title {
+                font-size: 3rem;
+            }
+
+            .widget-info__desc {
+                font-size: 1.5rem;
+                font-weight: 300;
+                text-align: left;
+            }
+        }
+      }
+
+      .hero-section {
+        padding-top: 150px;
+
+        @media only screen and (min-width: $desktop) {
+            display: flex;
+        }
+
+        &_content {
+
+            text-align: center;
+            padding-top: 5%;
+
+            .widget-info__title {
+                margin-top: 5%;
+            }
+
+            .widget-info__desc {
+                text-align: left;
+            }
+        }
+      }
+}

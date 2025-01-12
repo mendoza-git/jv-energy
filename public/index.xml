@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAO Ventures</title>
+    <link>https://mendoza-git.github.io/</link>
+    <description>Recent content on JAO Ventures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 15:01:35 +0300</lastBuildDate>
+    <atom:link href="https://mendoza-git.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City of Irving To Make Way for New Residential Zone</title>
+      <link>https://mendoza-git.github.io/posts/example-post-1/</link>
+      <pubDate>Mon, 01 Jan 2024 15:01:35 +0300</pubDate>
+      <guid>https://mendoza-git.github.io/posts/example-post-1/</guid>
+      <description>Irving, Texas, is taking significant steps to meet the growing demand for modern, accessible housing. The city recently approved a new residential zoning initiative that will transform several underutilized areas into vibrant living communities. This move is part of Irving&amp;rsquo;s broader strategy to accommodate population growth while fostering sustainable urban development.&#xA;The new residential zone will focus on mixed-use developments, seamlessly integrating housing, retail, and community spaces. This approach not only enhances quality of life but also supports local businesses by creating walkable neighborhoods with increased foot traffic.</description>
+    </item>
+    <item>
+      <title>Fort Worth Passes New Laws to Support Small Business Owners</title>
+      <link>https://mendoza-git.github.io/posts/example-post-2/</link>
+      <pubDate>Mon, 01 Jan 2024 15:01:35 +0300</pubDate>
+      <guid>https://mendoza-git.github.io/posts/example-post-2/</guid>
+      <description>In a groundbreaking move, Fort Worth has passed a series of laws designed to empower small business owners and fuel local economic growth. The measures include streamlined permitting processes, tax incentives for startups, and expanded access to city-funded grants for business development.&#xA;These laws aim to lower the barriers to entry for entrepreneurs while supporting existing small businesses in scaling their operations. Fort Worth’s leadership recognizes the critical role small businesses play in creating jobs and driving innovation, making this initiative a key priority for the city’s economic future.</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>https://mendoza-git.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mendoza-git.github.io/about/</guid>
+      <description>Who We Are At JAO Ventures, we are a boutique investment bank with a focus on acquiring, enhancing, and managing properties to create lasting value. Founded with a vision to fuel innovation through strategic investments, our team combines deep market expertise with a personalized approach to help our clients achieve their financial goals.&#xA;With a commitment to excellence and integrity, we specialize in identifying high-potential opportunities in real estate and guiding clients through every stage of the investment process.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://mendoza-git.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mendoza-git.github.io/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>https://mendoza-git.github.io/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mendoza-git.github.io/elements/</guid>
+      <description>A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.&#xA;Headings by default: H1 Default styles for headings H2 Default styles for headings H3 Default styles for headings H4 Default styles for headings H5 Default styles for headings H6 Default styles for headings Lists Ordered list example: Poutine drinking vinegar bitters.</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>https://mendoza-git.github.io/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mendoza-git.github.io/services/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terms</title>
+      <link>https://mendoza-git.github.io/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mendoza-git.github.io/terms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Videos</title>
+      <link>https://mendoza-git.github.io/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mendoza-git.github.io/videos/</guid>
+      <description>Commercials, Music Videos, Television, Film (Short and Feature length), TV News, Corporate video, and everything in between.</description>
+    </item>
+  </channel>
+</rss>

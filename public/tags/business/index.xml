@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>business on JAO Ventures</title>
+    <link>https://mendoza-git.github.io/tags/business/</link>
+    <description>Recent content in business on JAO Ventures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 15:01:35 +0300</lastBuildDate>
+    <atom:link href="https://mendoza-git.github.io/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fort Worth Passes New Laws to Support Small Business Owners</title>
+      <link>https://mendoza-git.github.io/posts/example-post-2/</link>
+      <pubDate>Mon, 01 Jan 2024 15:01:35 +0300</pubDate>
+      <guid>https://mendoza-git.github.io/posts/example-post-2/</guid>
+      <description>In a groundbreaking move, Fort Worth has passed a series of laws designed to empower small business owners and fuel local economic growth. The measures include streamlined permitting processes, tax incentives for startups, and expanded access to city-funded grants for business development.&#xA;These laws aim to lower the barriers to entry for entrepreneurs while supporting existing small businesses in scaling their operations. Fort Worth’s leadership recognizes the critical role small businesses play in creating jobs and driving innovation, making this initiative a key priority for the city’s economic future.</description>
+    </item>
+  </channel>
+</rss>

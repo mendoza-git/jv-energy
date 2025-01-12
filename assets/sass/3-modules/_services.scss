@@ -1,0 +1,29 @@
+.services-container {
+    max-width: 100%;
+    padding: 0 150px;
+
+    @media only screen and (max-width: $tablet) {
+        max-width: 1000px;
+        padding: 0 16px;
+    }
+}
+
+.widget-services {
+    display: flex;
+    border-bottom: 1px solid gray;
+    padding-top: 25px;
+
+    .widget-info {
+        &__title {
+            padding-top: 28px;
+            padding-right: 100px;
+            width: 150%;
+            font-size: 1.75rem;
+            text-align: center;
+        }
+
+        &__desc {
+            font-weight: 300;
+        }
+    }
+}

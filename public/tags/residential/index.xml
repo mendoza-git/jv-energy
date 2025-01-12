@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>residential on JAO Ventures</title>
+    <link>https://mendoza-git.github.io/tags/residential/</link>
+    <description>Recent content in residential on JAO Ventures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 15:01:35 +0300</lastBuildDate>
+    <atom:link href="https://mendoza-git.github.io/tags/residential/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City of Irving To Make Way for New Residential Zone</title>
+      <link>https://mendoza-git.github.io/posts/example-post-1/</link>
+      <pubDate>Mon, 01 Jan 2024 15:01:35 +0300</pubDate>
+      <guid>https://mendoza-git.github.io/posts/example-post-1/</guid>
+      <description>Irving, Texas, is taking significant steps to meet the growing demand for modern, accessible housing. The city recently approved a new residential zoning initiative that will transform several underutilized areas into vibrant living communities. This move is part of Irving&amp;rsquo;s broader strategy to accommodate population growth while fostering sustainable urban development.&#xA;The new residential zone will focus on mixed-use developments, seamlessly integrating housing, retail, and community spaces. This approach not only enhances quality of life but also supports local businesses by creating walkable neighborhoods with increased foot traffic.</description>
+    </item>
+  </channel>
+</rss>
